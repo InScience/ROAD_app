@@ -15,6 +15,7 @@ public class MarrHildreth {
 		
 	}
 
+	//FIXME: LoG
 	public String marrHildreth(ArrayList<String> pathList) {
 		String strsave = "";
 		if (pathList.size() > 0) {
